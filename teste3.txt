@@ -1,0 +1,1 @@
+Testando como colocar mais de um arquivo nos adds, e comitar todos ao mesmo tempo
